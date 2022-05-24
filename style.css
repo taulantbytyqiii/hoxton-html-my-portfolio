@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .container {
-  padding: 0px 150px;
+  padding: 0px 300px;
   display: grid;
   grid-template-columns: auto 1fr;
   grid-template-rows: 100vh;
@@ -50,7 +50,7 @@
 .main-container {
   scroll-behavior: smooth;
   background-color: #f4f5f6;
-  height: 90%;
+  height: 80%;
   width: 100%;
   overflow: scroll;
 }
