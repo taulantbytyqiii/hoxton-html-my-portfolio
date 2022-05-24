@@ -153,4 +153,22 @@
 }
 .clicked-h1 {
   text-align: center;
+  color: white;
+}
+.click {
+  background-color: black;
+  display: grid;
+  justify-content: center;
+}
+
+.back a {
+  display: grid;
+  place-items: center;
+  height: 50px;
+  text-decoration: none;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+.back span {
+  height: 25px;
 }
